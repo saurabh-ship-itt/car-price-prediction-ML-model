@@ -11,7 +11,7 @@ This project uses a trained machine learning model to estimate car prices. It in
 * Data preprocessing
 * Model training
 * Model serialization
-* A simple user interface for prediction
+* A simple user interface for predictions
 
 ---
 
